@@ -13,7 +13,7 @@ in a span of 3 weeks we SUCCESSFULLY completed the project using two different t
 
 - 📝 I write articles on [ajinkyamspawar.blogspot.in](ajinkyamspawar.blogspot.in)
 
-- 💬 Ask me about **Aptitude Tests [C-CAT: AIR 880(2022) and AIR 757(2023) ] C, Java, Python, Machine Learning, Big data**
+- 💬 Ask me about **Aptitude Tests [C-CAT: AIR 880 (2022) and AIR 757 (2023) ] C, Java, Python, Machine Learning, Big data**
 
 - 📫 You can reach me on ajinkyamspawar21@gmail.com 
 
@@ -34,7 +34,7 @@ in a span of 3 weeks we SUCCESSFULLY completed the project using two different t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinkyamspawar21&show_icons=true&locale=en" alt="ajinkyamspawar21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyamspawar21&" alt="ajinkyamspawar21" /></p>
+<!--#<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinkyamspawar21&" alt="ajinkyamspawar21" /></p>-->
 
 
 
