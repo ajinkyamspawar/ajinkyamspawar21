@@ -11,7 +11,7 @@ This project was for my academic completion of PG-DBDA (CDAC-Pune). We (Team of 
 in a span of 3 weeks we SUCCESSFULLY completed the project using two different technologies <b>i.e. Apache PySpark and Pandas</b>. 
 
 
-- 📝 I write articles on [[ajinkyamspawar.blogspot.com](https://ajinkyamspawar.blogspot.com/)](ajinkyamspawar.blogspot.com)
+- 📝 I write articles on https://ajinkyamspawar.blogspot.com/
 
 - 💬 Ask me about **Aptitude Tests [C-CAT: AIR 880 (2022) and AIR 757 (2023)] C, Java, Python, Machine Learning, Big data**
 
