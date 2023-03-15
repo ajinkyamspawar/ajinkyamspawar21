@@ -6,7 +6,7 @@ I’m currently working on self project: "name yet to be decided".
 
 Earlier I worked on Apache PySpark based project "Genre classification and Song data analysis on Spotify tracks dataset". 
 This project was for my academic completion of PG-DBDA(CDAC-Pune). We(Team of 4) completed the same project in Panads too, i.e.
-in a span of 19 days we successfully completed the project using two different technologies i.e. Apache PySpark and Pandas. 
+in a span of 3 weeks we SUCCESSFULLY completed the project using two different technologies i.e. Apache PySpark and Pandas. 
 
 📫 You can reach me on ajinkyamspawar21@gmail.com 
 
