@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyamspawar21&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyamspawar21" /> </p>
 
-I’m currently working on <b>self project</b>: "name yet to be decided". 
+I’m currently working on <b>self project</b>: "Sports person image classification using machine learning". 
 
 Earlier I worked on <b>Apache PySpark based project "Genre classification and Song data analysis on Spotify tracks dataset".</b> 
 This project was for my academic completion of PG-DBDA (CDAC-Pune). We (Team of 4) completed the same project in Panads too, i.e.
