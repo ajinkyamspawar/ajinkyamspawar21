@@ -13,7 +13,11 @@ in a span of 3 weeks we SUCCESSFULLY completed the project using two different t
 
 - 📝 I write articles on https://ajinkyamspawar.blogspot.com/
 
-- 💬 Ask me about **Aptitude Tests [C-CAT: AIR 880 (2022) and AIR 757 (2023)],  Python-[ 5 Stars on HackerRank], C-[ 3 Stars on HackerRank], Machine Learning, Big data**
+- 💬 Aptitude Tests [C-CAT: AIR 880 (2022) and AIR 757 (2023)] 
+- 💬 Machine Learning [DBDA_PROJECT awa Self-Projects]
+- 💬 Python-[ 5 Stars on HackerRank]
+- 💬 SQl - [4 Stars on HackerRank]
+- 💬 C-[ 3 Stars on HackerRank]
 
 - 📫 You can reach me on ajinkyamspawar21@gmail.com 
 
