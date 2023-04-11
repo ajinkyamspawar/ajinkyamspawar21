@@ -17,7 +17,7 @@ in a span of 3 weeks we SUCCESSFULLY completed the project using two different t
 - 💬 Machine Learning: [DBDA_PROJECT awa Self-Projects]
 - 💬 Python: [ 5 Stars on HackerRank]
 - 💬 Java: [ 5 Stars on HackerRank]
-- 💬 SQl: [4 Stars on HackerRank]
+- 💬 SQl: [3 Stars on HackerRank]
 - 💬 C: [ 3 Stars on HackerRank]
 
 - 📫 You can reach me on ajinkyamspawar21@gmail.com 
