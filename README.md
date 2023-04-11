@@ -1,6 +1,6 @@
 ###  
-<h3 align="center">"Hello World 😉",  I'm Ajinkya Pawar! 😊</h3>
-<h4 align="center"><B>"An Engineer by profession and a Writer at ❤️!"</B></h4> 
+<h3 align="center">"Hello World 😉",  I'm Ajinkya Pawar! </h3>
+<h4 align="center"><B>"An Engineer by profession and a Writer at heart!"</B></h4> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyamspawar21&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyamspawar21" /> </p>
 
@@ -13,11 +13,12 @@ in a span of 3 weeks we SUCCESSFULLY completed the project using two different t
 
 - 📝 I write articles on https://ajinkyamspawar.blogspot.com/
 
-- 💬 Aptitude Tests [C-CAT: AIR 880 (2022) and AIR 757 (2023)] 
-- 💬 Machine Learning [DBDA_PROJECT awa Self-Projects]
-- 💬 Python-[ 5 Stars on HackerRank]
-- 💬 SQl - [4 Stars on HackerRank]
-- 💬 C-[ 3 Stars on HackerRank]
+- 💬 Aptitude Tests: [C-CAT: AIR 880 (2022) and AIR 757 (2023)] 
+- 💬 Machine Learning: [DBDA_PROJECT awa Self-Projects]
+- 💬 Python: [ 5 Stars on HackerRank]
+- 💬 Java: [ 5 Stars on HackerRank]
+- 💬 SQl: [4 Stars on HackerRank]
+- 💬 C: [ 3 Stars on HackerRank]
 
 - 📫 You can reach me on ajinkyamspawar21@gmail.com 
 
