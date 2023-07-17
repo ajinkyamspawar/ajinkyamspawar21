@@ -1,6 +1,6 @@
 ###  
 <h3 align="center">"Hello World 😉",  I'm Ajinkya Pawar! </h3>
-<h4 align="center"><B>"An Engineer by profession and a Writer at heart!"</B></h4> 
+<h4 align="center"><B>"An Analyst by profession and a Writer at heart!"</B></h4> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkyamspawar21&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkyamspawar21" /> </p>
 
